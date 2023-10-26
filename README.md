@@ -1,18 +1,18 @@
-<a href="https://emojis.sh/">
-  <h1 align="center">emojis</h1>
+<a href="https://aistickers.sh/">
+  <h1 align="center">stickers</h1>
 </a>
 
 <p align="center">
-  Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
+  Turn your ideas into stickers in seconds. Generate your favorite Telegram stickers with just one click.
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/pondorasti">
-    <img src="https://img.shields.io/twitter/follow/pondorasti?style=flat&logo=x&color=0bf&logoColor=fff" alt="Alexandru Ţurcanu's X follower count" />
+  <a href="https://twitter.com/lucasmezencio">
+    <img src="https://img.shields.io/twitter/follow/lucasmezencio?style=flat&logo=x&color=0bf&logoColor=fff" alt="Lucas Mezêncio's X follower count" />
   </a>
 
-  <a href="https://github.com/pondorasti/emojis">
-    <img src="https://img.shields.io/github/stars/pondorasti/emojis?label=pondorasti%2Femojis" alt="pondorasti/emojis repo star count" />
+  <a href="https://github.com/lucasmezencio/stickers">
+    <img src="https://img.shields.io/github/stars/lucasmezencio/stickers?label=lucasmezencio%2Fstickers" alt="lucasmezencio/stickers repo star count" />
   </a>
 </p>
 
@@ -29,7 +29,6 @@
 </a>
 
 <br/>
-
 
 ## Tech Stack
 
@@ -57,11 +56,12 @@ Note that you'll need to:
 
 ## Authors
 
-- Alexandru Ţurcanu ([@pondorasti](https://x.com/pondorasti))
-- Dylan Player ([@dylanplayer](https://twitter.com/dylanplayer))
+- Lucas Mezêncio ([@lucasmezencio](https://x.com/lucasmezencio))
 
 ## Credits
 
+> [!IMPORTANT]
+> [Pondorasti](https://github.com/Pondorasti) - who created the base for this project on [emojis.sh](https://emojis.sh)
 
 - [sdxl-emoji](https://replicate.com/fofr/sdxl-emoji) - fine tuned SDXL based on Apple's emojis by [@fofrAI](https://twitter.com/fofrAI)
 - [prompt-classifier](https://replicate.com/fofr/prompt-classifier) - fine tuned llama-13b for determining toxicity by [@fofrAI](https://twitter.com/fofrAI)
@@ -71,6 +71,6 @@ Note that you'll need to:
 
 ## Legal
 
-- [AGPL-3.0 License](https://github.com/Pondorasti/emojis/blob/main/LICENSE)
-- [Terms & Conditions](https://emojis.sh/terms)
-- [Privacy Policy](https://emojis.sh/privacy)
+- [AGPL-3.0 License](https://github.com/lucasmezencio/stickers/blob/main/LICENSE)
+- [Terms & Conditions](https://aistickers.sh/terms)
+- [Privacy Policy](https://aistickers.sh/privacy)
